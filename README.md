@@ -42,3 +42,5 @@ Open R inside the activated conda environment and run:
 library(shiny)
 runApp("app.R")
 ```
+
+###OR you can access the website: https://dsci532-mtcarsdash.shinyapps.io/MTCARS/
