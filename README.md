@@ -22,19 +22,22 @@ Instead of writing a long description, a short demo video showcasing the app is 
 ## Installation instructions
 To run the dashboard locally, follow these steps:
 
-### **1 Install R and Shiny**
-```r
-install.packages("shiny")
-install.packages("ggplot2")
-install.packages("dplyr")
-install.packages("plotly")
-```
-### **2 Clone the repository**
+### **1 Clone the repository**
 ```bash
 git clone https://github.com/yourusername/dsci532-ia.git
 cd dsci532-ia
 ```
-### **3 Access the dashboard**
+### **2 Set Up the Conda Environment**
+Create a virtual environment with all required R packages:
+```bash
+conda env create -f environment.yml
+```
+Then, activate it:
+```bash
+conda activate dsci532-mtcars
+```
+### **3 Run the Shiny App**
+Open R inside the activated conda environment and run:
 ```r
 library(shiny)
 runApp("app.R")
