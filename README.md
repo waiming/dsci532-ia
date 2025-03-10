@@ -43,4 +43,4 @@ library(shiny)
 runApp("app.R")
 ```
 
-###OR you can access the website: https://dsci532-mtcarsdash.shinyapps.io/MTCARS/
+### OR you can access the website: https://dsci532-mtcarsdash.shinyapps.io/MTCARS/
