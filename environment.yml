@@ -1,0 +1,9 @@
+name: dsci532-mtcars  # Name of your Conda environment
+channels:
+  - conda-forge
+dependencies:
+  - r-base
+  - r-shiny
+  - r-ggplot2
+  - r-dplyr
+  - r-plotly

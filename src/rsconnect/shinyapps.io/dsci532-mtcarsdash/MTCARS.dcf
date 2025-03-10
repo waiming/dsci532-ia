@@ -1,0 +1,12 @@
+name: MTCARS
+title: MTCARS
+username: dsci532-mtcarsdash
+account: dsci532-mtcarsdash
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14199812
+bundleId: 9918158
+url: https://dsci532-mtcarsdash.shinyapps.io/MTCARS/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

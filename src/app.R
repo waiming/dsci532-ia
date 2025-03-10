@@ -5,7 +5,6 @@ library(ggplot2)
 library(dplyr)
 library(plotly)
 
-
 # UI
 ui <- fluidPage(
   titlePanel("Interactive MTCARS Dashboard"),
