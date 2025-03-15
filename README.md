@@ -18,6 +18,7 @@ Instead of writing a long description, a short demo video showcasing the app is 
 - Interactive visualization of HP vs. MPG.
 - Filtering options for HP, MPG, and cylinders.
 - Tooltip display for car name, HP, and MPG.
+(img/demo.mp4)
 
 ## Installation instructions
 To run the dashboard locally, follow these steps:
